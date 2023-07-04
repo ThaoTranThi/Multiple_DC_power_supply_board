@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+24V_IN Pin=J8-1
+Change Component Designator: OldDesignator=J8 NewDesignator=J11
+Change Component Designator: OldDesignator=J9 NewDesignator=J8
+Change Component Designator: OldDesignator=J10 NewDesignator=J9
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Added Pin To Net: NetName=+5V_OUT Pin=J11-1

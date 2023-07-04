@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: E:\2022\7\RF_microscope_switzheland\DCDC power supply distribution\DCDC power supply distribution\PCB.PSU.DCDC.001.A1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=23.62
+RuleKind=Width|RuleName=Width_BGA|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing Mid-Layer 2|Scope=Board|Minimum=13.78
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing Mid-Layer 1|Scope=Board|Minimum=13.78
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.56
+RuleKind=SolderMaskExpansion|RuleName=ISVIA|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94

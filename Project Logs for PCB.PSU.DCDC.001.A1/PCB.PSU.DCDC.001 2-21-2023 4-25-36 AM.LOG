@@ -1,0 +1,110 @@
+Added Component: Designator=J1(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Component: Designator=J2(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Component: Designator=J3(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Component: Designator=J4(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Component: Designator=J5(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Component: Designator=J6(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Component: Designator=J7(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Component: Designator=J8(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Component: Designator=J10(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Component: Designator=J11(MOLEX_22-27-2021)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24V_IN Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=24V_On/Off Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=+48V_OUT_1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=+48V_OUT_2 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=+24V_OUT_1 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=+24V_IN Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=+24V_IN Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=+24V_IN Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=+12V_OUT Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=+5V_OUT Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J1 22-27-2021
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J2 22-27-2021
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J3 22-27-2021
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J4 22-27-2021
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J5 22-27-2021
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J6 22-27-2021
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J7 22-27-2021
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J8 22-27-2021
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J10 22-27-2021
+Added Member To Class: ClassName=PCB.PSU.DCDC.001.A1 Member=Component J11 22-27-2021
